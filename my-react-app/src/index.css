@@ -46,3 +46,21 @@
 .student p{
   margin: 0px; 
 }
+
+.welcome-message {
+  font-size: 2.5em; 
+  background-color: hsla(138, 100%, 49%, 0.711);
+  color: white; 
+  padding: 10px; 
+  border-radius: 5px;
+  margin: 0; 
+}
+
+.login-prompt {
+  font-size: 2.5em; 
+  background-color: hsla(0, 100%, 48%, 0.1);
+  color: white; 
+  padding: 10px; 
+  border-radius: 5px;
+  margin: 0; 
+}
